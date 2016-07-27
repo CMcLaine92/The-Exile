@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Cutscene>
+	<CameraFrame lookDirX = "1" lookDirY ="0" lookDirZ ="0" posX ="-1500" posY ="200" posZ = "-1500" frameTime ="1.0" shouldInterpolate ="1"/>
+	<CameraFrame lookDirX = "1" lookDirY ="1.8" lookDirZ ="0" posX ="-1500" posY ="200" posZ = "-1500" frameTime ="1.5" shouldInterpolate ="0"/>
+	<CameraFrame lookDirX = "1" lookDirY ="1.8" lookDirZ ="0" posX ="-1500" posY ="200" posZ = "-1500" frameTime ="2.0" shouldInterpolate ="1"/>
+	<CameraFrame lookDirX = "1" lookDirY ="0" lookDirZ ="0" posX ="-1500" posY ="200" posZ = "-1500" frameTime =".5" shouldInterpolate ="0"/>
+</Cutscene>
