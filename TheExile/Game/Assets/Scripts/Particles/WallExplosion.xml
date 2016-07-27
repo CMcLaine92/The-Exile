@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>1.25</MinLife>
+    <MaxLife>3.0</MaxLife>
+    <StartSize>30</StartSize>
+    <StartSizeMax>40</StartSizeMax>
+    <EndSize>50</EndSize>
+    <EndSizeMax>60</EndSizeMax>
+    <MinStartXVelocity>-120</MinStartXVelocity>
+    <MinStartYVelocity>-100</MinStartYVelocity>
+    <MinStartZVelocity>-120</MinStartZVelocity>
+    <MaxStartXVelocity>120</MaxStartXVelocity>
+    <MaxStartYVelocity>120</MaxStartYVelocity>
+    <MaxStartZVelocity>120</MaxStartZVelocity>
+    <MinEndXVelocity>-220</MinEndXVelocity>
+    <MinEndYVelocity>-100</MinEndYVelocity>
+    <MinEndZVelocity>-220</MinEndZVelocity>
+    <MaxEndXVelocity>220</MaxEndXVelocity>
+    <MaxEndYVelocity>220</MaxEndYVelocity>
+    <MaxEndZVelocity>220</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>0</EndColorA>
+    <EndColorR>255</EndColorR>
+    <EndColorG>255</EndColorG>
+    <EndColorB>255</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Sphere</Shape>
+    <Scale>8</Scale>
+    <SpawnRate>5</SpawnRate>
+    <MinParticles>1600</MinParticles>
+    <MaxParticles>2000</MaxParticles>
+    <Looping>False</Looping>
+    <ImagePath>Failbot_WallExplosion.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

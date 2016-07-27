@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>1</MinLife>
+    <MaxLife>3</MaxLife>
+    <StartSize>25</StartSize>
+    <StartSizeMax>50</StartSizeMax>
+    <EndSize>1</EndSize>
+    <EndSizeMax>5</EndSizeMax>
+    <MinStartXVelocity>-300</MinStartXVelocity>
+    <MinStartYVelocity>-300</MinStartYVelocity>
+    <MinStartZVelocity>-300</MinStartZVelocity>
+    <MaxStartXVelocity>300</MaxStartXVelocity>
+    <MaxStartYVelocity>300</MaxStartYVelocity>
+    <MaxStartZVelocity>300</MaxStartZVelocity>
+    <MinEndXVelocity>-300</MinEndXVelocity>
+    <MinEndYVelocity>-300</MinEndYVelocity>
+    <MinEndZVelocity>-300</MinEndZVelocity>
+    <MaxEndXVelocity>300</MaxEndXVelocity>
+    <MaxEndYVelocity>500</MaxEndYVelocity>
+    <MaxEndZVelocity>300</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>0</EndColorA>
+    <EndColorR>255</EndColorR>
+    <EndColorG>255</EndColorG>
+    <EndColorB>255</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Sphere</Shape>
+    <Scale>100</Scale>
+    <SpawnRate>1</SpawnRate>
+    <MinParticles>1500</MinParticles>
+    <MaxParticles>2000</MaxParticles>
+    <Looping>Flase</Looping>
+    <ImagePath>BushDestroy.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

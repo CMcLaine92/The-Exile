@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>1</MinLife>
+    <MaxLife>2</MaxLife>
+    <StartSize>5</StartSize>
+    <StartSizeMax>30</StartSizeMax>
+    <EndSize>1</EndSize>
+    <EndSizeMax>5</EndSizeMax>
+    <MinStartXVelocity>-50</MinStartXVelocity>
+    <MinStartYVelocity>20</MinStartYVelocity>
+    <MinStartZVelocity>-50</MinStartZVelocity>
+    <MaxStartXVelocity>50</MaxStartXVelocity>
+    <MaxStartYVelocity>100</MaxStartYVelocity>
+    <MaxStartZVelocity>50</MaxStartZVelocity>
+    <MinEndXVelocity>c</MinEndXVelocity>
+    <MinEndYVelocity>-100</MinEndYVelocity>
+    <MinEndZVelocity>-100</MinEndZVelocity>
+    <MaxEndXVelocity>100</MaxEndXVelocity>
+    <MaxEndYVelocity>500</MaxEndYVelocity>
+    <MaxEndZVelocity>100</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>0</EndColorA>
+    <EndColorR>255</EndColorR>
+    <EndColorG>255</EndColorG>
+    <EndColorB>0</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Sphere</Shape>
+    <Scale>15</Scale>
+    <SpawnRate>.05</SpawnRate>
+    <MinParticles>750</MinParticles>
+    <MaxParticles>1750</MaxParticles>
+    <Looping>True</Looping>
+    <ImagePath>TorchFireImage.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

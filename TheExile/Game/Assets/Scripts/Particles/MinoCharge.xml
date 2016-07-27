@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>.05</MinLife>
+    <MaxLife>.5</MaxLife>
+    <StartSize>10</StartSize>
+    <StartSizeMax>30</StartSizeMax>
+    <EndSize>c</EndSize>
+    <EndSizeMax>c</EndSizeMax>
+    <MinStartXVelocity>-120</MinStartXVelocity>
+    <MinStartYVelocity>-120</MinStartYVelocity>
+    <MinStartZVelocity>-120</MinStartZVelocity>
+    <MaxStartXVelocity>120</MaxStartXVelocity>
+    <MaxStartYVelocity>120</MaxStartYVelocity>
+    <MaxStartZVelocity>120</MaxStartZVelocity>
+    <MinEndXVelocity>c</MinEndXVelocity>
+    <MinEndYVelocity>-50</MinEndYVelocity>
+    <MinEndZVelocity>20</MinEndZVelocity>
+    <MaxEndXVelocity>-20</MaxEndXVelocity>
+    <MaxEndYVelocity>-10</MaxEndYVelocity>
+    <MaxEndZVelocity>20</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>0</StartColorR>
+    <StartColorG>0</StartColorG>
+    <StartColorB>0</StartColorB>
+    <EndColorA>20</EndColorA>
+    <EndColorR>50</EndColorR>
+    <EndColorG>0</EndColorG>
+    <EndColorB>0</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Box</Shape>
+    <Scale>300</Scale>
+    <SpawnRate>0.01</SpawnRate>
+    <MinParticles>600</MinParticles>
+    <MaxParticles>1000</MaxParticles>
+    <Looping>True</Looping>
+    <ImagePath>SplatterParticle.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

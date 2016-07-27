@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>1.3</MinLife>
+    <MaxLife>1.3</MaxLife>
+    <StartSize>100</StartSize>
+    <StartSizeMax>100</StartSizeMax>
+    <EndSize>100</EndSize>
+    <EndSizeMax>100</EndSizeMax>
+    <MinStartXVelocity>-200</MinStartXVelocity>
+    <MinStartYVelocity>400</MinStartYVelocity>
+    <MinStartZVelocity>-200</MinStartZVelocity>
+    <MaxStartXVelocity>200</MaxStartXVelocity>
+    <MaxStartYVelocity>400</MaxStartYVelocity>
+    <MaxStartZVelocity>200</MaxStartZVelocity>
+    <MinEndXVelocity>c</MinEndXVelocity>
+    <MinEndYVelocity>c</MinEndYVelocity>
+    <MinEndZVelocity>c</MinEndZVelocity>
+    <MaxEndXVelocity>c</MaxEndXVelocity>
+    <MaxEndYVelocity>c</MaxEndYVelocity>
+    <MaxEndZVelocity>c</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>0</EndColorA>
+    <EndColorR>0</EndColorR>
+    <EndColorG>0</EndColorG>
+    <EndColorB>0</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Point</Shape>
+    <Scale>2</Scale>
+    <SpawnRate>0.001</SpawnRate>
+    <MinParticles>10</MinParticles>
+    <MaxParticles>10000</MaxParticles>
+    <Looping>True</Looping>
+    <ImagePath>NewFire.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

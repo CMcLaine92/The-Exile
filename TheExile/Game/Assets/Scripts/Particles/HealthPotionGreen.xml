@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>0.5</MinLife>
+    <MaxLife>1</MaxLife>
+    <StartSize>15</StartSize>
+    <StartSizeMax>30</StartSizeMax>
+    <EndSize>5</EndSize>
+    <EndSizeMax>10</EndSizeMax>
+    <MinStartXVelocity>-100</MinStartXVelocity>
+    <MinStartYVelocity>-50</MinStartYVelocity>
+    <MinStartZVelocity>-100</MinStartZVelocity>
+    <MaxStartXVelocity>100</MaxStartXVelocity>
+    <MaxStartYVelocity>200</MaxStartYVelocity>
+    <MaxStartZVelocity>100</MaxStartZVelocity>
+    <MinEndXVelocity>-100</MinEndXVelocity>
+    <MinEndYVelocity>-50</MinEndYVelocity>
+    <MinEndZVelocity>-100</MinEndZVelocity>
+    <MaxEndXVelocity>100</MaxEndXVelocity>
+    <MaxEndYVelocity>200</MaxEndYVelocity>
+    <MaxEndZVelocity>100</MaxEndZVelocity>
+    <StartColorA>0</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>255</EndColorA>
+    <EndColorR>255</EndColorR>
+    <EndColorG>255</EndColorG>
+    <EndColorB>255</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Point</Shape>
+    <Scale>1</Scale>
+    <SpawnRate>1</SpawnRate>
+    <MinParticles>500</MinParticles>
+    <MaxParticles>750</MaxParticles>
+    <Looping>False</Looping>
+    <ImagePath>Green Particle Circle.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>3</MinLife>
+    <MaxLife>6</MaxLife>
+    <StartSize>25</StartSize>
+    <StartSizeMax>100</StartSizeMax>
+    <EndSize>15</EndSize>
+    <EndSizeMax>30</EndSizeMax>
+    <MinStartXVelocity>-200</MinStartXVelocity>
+    <MinStartYVelocity>20</MinStartYVelocity>
+    <MinStartZVelocity>-200</MinStartZVelocity>
+    <MaxStartXVelocity>200</MaxStartXVelocity>
+    <MaxStartYVelocity>50</MaxStartYVelocity>
+    <MaxStartZVelocity>200</MaxStartZVelocity>
+    <MinEndXVelocity>-200</MinEndXVelocity>
+    <MinEndYVelocity>20</MinEndYVelocity>
+    <MinEndZVelocity>-200</MinEndZVelocity>
+    <MaxEndXVelocity>200</MaxEndXVelocity>
+    <MaxEndYVelocity>100</MaxEndYVelocity>
+    <MaxEndZVelocity>200</MaxEndZVelocity>
+    <StartColorA>0</StartColorA>
+    <StartColorR>0</StartColorR>
+    <StartColorG>0</StartColorG>
+    <StartColorB>0</StartColorB>
+    <EndColorA>255</EndColorA>
+    <EndColorR>0</EndColorR>
+    <EndColorG>0</EndColorG>
+    <EndColorB>0</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Point</Shape>
+    <Scale>2</Scale>
+    <SpawnRate>100</SpawnRate>
+    <MinParticles>1500</MinParticles>
+    <MaxParticles>2000</MaxParticles>
+    <Looping>True</Looping>
+    <ImagePath>FireTrapSmokeImage.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

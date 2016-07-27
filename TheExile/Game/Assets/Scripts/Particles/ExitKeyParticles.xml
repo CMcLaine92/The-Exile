@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>1</MinLife>
+    <MaxLife>5</MaxLife>
+    <StartSize>5</StartSize>
+    <StartSizeMax>20</StartSizeMax>
+    <EndSize>1</EndSize>
+    <EndSizeMax>5</EndSizeMax>
+    <MinStartXVelocity>-50</MinStartXVelocity>
+    <MinStartYVelocity>20</MinStartYVelocity>
+    <MinStartZVelocity>-50</MinStartZVelocity>
+    <MaxStartXVelocity>50</MaxStartXVelocity>
+    <MaxStartYVelocity>100</MaxStartYVelocity>
+    <MaxStartZVelocity>50</MaxStartZVelocity>
+    <MinEndXVelocity>-100</MinEndXVelocity>
+    <MinEndYVelocity>-100</MinEndYVelocity>
+    <MinEndZVelocity>-100</MinEndZVelocity>
+    <MaxEndXVelocity>500</MaxEndXVelocity>
+    <MaxEndYVelocity>500</MaxEndYVelocity>
+    <MaxEndZVelocity>500</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>0</EndColorA>
+    <EndColorR>255</EndColorR>
+    <EndColorG>255</EndColorG>
+    <EndColorB>255</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Point</Shape>
+    <Scale>1</Scale>
+    <SpawnRate>5</SpawnRate>
+    <MinParticles>500</MinParticles>
+    <MaxParticles>1000</MaxParticles>
+    <Looping>True</Looping>
+    <ImagePath>DroppedItemParticle.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

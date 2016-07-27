@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>3</MinLife>
+    <MaxLife>10</MaxLife>
+    <StartSize>10</StartSize>
+    <StartSizeMax>20</StartSizeMax>
+    <EndSize>5</EndSize>
+    <EndSizeMax>15</EndSizeMax>
+    <MinStartXVelocity>-10</MinStartXVelocity>
+    <MinStartYVelocity>0</MinStartYVelocity>
+    <MinStartZVelocity>-10</MinStartZVelocity>
+    <MaxStartXVelocity>75</MaxStartXVelocity>
+    <MaxStartYVelocity>50</MaxStartYVelocity>
+    <MaxStartZVelocity>75</MaxStartZVelocity>
+    <MinEndXVelocity>-50</MinEndXVelocity>
+    <MinEndYVelocity>10</MinEndYVelocity>
+    <MinEndZVelocity>-50</MinEndZVelocity>
+    <MaxEndXVelocity>75</MaxEndXVelocity>
+    <MaxEndYVelocity>75</MaxEndYVelocity>
+    <MaxEndZVelocity>75</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>0</EndColorA>
+    <EndColorR>255</EndColorR>
+    <EndColorG>255</EndColorG>
+    <EndColorB>255</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Box</Shape>
+    <Scale>100</Scale>
+    <SpawnRate>0.05</SpawnRate>
+    <MinParticles>750</MinParticles>
+    <MaxParticles>1250</MaxParticles>
+    <Looping>False</Looping>
+    <ImagePath>EnemyFadeAway.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

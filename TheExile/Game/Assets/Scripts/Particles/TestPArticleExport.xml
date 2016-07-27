@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>5.0f</MinLife>
+    <MaxLife>10.0f</MaxLife>
+    <StartSize>10.0</StartSize>
+    <StartSizeMax>50.0</StartSizeMax>
+    <EndSize>10.0</EndSize>
+    <EndSizeMax>50.0</EndSizeMax>
+    <MinStartXVelocity>-250</MinStartXVelocity>
+    <MinStartYVelocity>500</MinStartYVelocity>
+    <MinStartZVelocity>-250</MinStartZVelocity>
+    <MaxStartXVelocity>250</MaxStartXVelocity>
+    <MaxStartYVelocity>500</MaxStartYVelocity>
+    <MaxStartZVelocity>250</MaxStartZVelocity>
+    <MinEndXVelocity>c</MinEndXVelocity>
+    <MinEndYVelocity>-500</MinEndYVelocity>
+    <MinEndZVelocity>0</MinEndZVelocity>
+    <MaxEndXVelocity>0</MaxEndXVelocity>
+    <MaxEndYVelocity>-500</MaxEndYVelocity>
+    <MaxEndZVelocity>0</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>0</StartColorG>
+    <StartColorB>0</StartColorB>
+    <EndColorA>100</EndColorA>
+    <EndColorR>0</EndColorR>
+    <EndColorG>0</EndColorG>
+    <EndColorB>255</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Sphere</Shape>
+    <Scale>100</Scale>
+    <SpawnRate>.01</SpawnRate>
+    <MinParticles>0</MinParticles>
+    <MaxParticles>1000</MaxParticles>
+    <Looping>False</Looping>
+    <ImagePath>dotPart.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

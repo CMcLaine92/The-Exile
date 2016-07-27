@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>0.5</MinLife>
+    <MaxLife>1</MaxLife>
+    <StartSize>15</StartSize>
+    <StartSizeMax>28</StartSizeMax>
+    <EndSize>15</EndSize>
+    <EndSizeMax>28</EndSizeMax>
+    <MinStartXVelocity>200</MinStartXVelocity>
+    <MinStartYVelocity>100</MinStartYVelocity>
+    <MinStartZVelocity>-200</MinStartZVelocity>
+    <MaxStartXVelocity>-200</MaxStartXVelocity>
+    <MaxStartYVelocity>200</MaxStartYVelocity>
+    <MaxStartZVelocity>200</MaxStartZVelocity>
+    <MinEndXVelocity>0</MinEndXVelocity>
+    <MinEndYVelocity>-300</MinEndYVelocity>
+    <MinEndZVelocity>0</MinEndZVelocity>
+    <MaxEndXVelocity>0</MaxEndXVelocity>
+    <MaxEndYVelocity>-300</MaxEndYVelocity>
+    <MaxEndZVelocity>0</MaxEndZVelocity>
+    <StartColorA>255</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>100</EndColorA>
+    <EndColorR>255</EndColorR>
+    <EndColorG>255</EndColorG>
+    <EndColorB>255</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Point</Shape>
+    <Scale>3</Scale>
+    <SpawnRate>0.01</SpawnRate>
+    <MinParticles>60</MinParticles>
+    <MaxParticles>60</MaxParticles>
+    <Looping>False</Looping>
+    <ImagePath>BoneFragment.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>

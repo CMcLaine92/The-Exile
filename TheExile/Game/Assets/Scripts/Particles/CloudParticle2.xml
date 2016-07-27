@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ParticleEffect>
+  <FlyWeight>
+    <MinLife>5</MinLife>
+    <MaxLife>10</MaxLife>
+    <StartSize>0.25</StartSize>
+    <StartSizeMax>1</StartSizeMax>
+    <EndSize>0.25</EndSize>
+    <EndSizeMax>1</EndSizeMax>
+    <MinStartXVelocity>-0.25</MinStartXVelocity>
+    <MinStartYVelocity>0</MinStartYVelocity>
+    <MinStartZVelocity>-0.25</MinStartZVelocity>
+    <MaxStartXVelocity>-1</MaxStartXVelocity>
+    <MaxStartYVelocity>0</MaxStartYVelocity>
+    <MaxStartZVelocity>0.25</MaxStartZVelocity>
+    <MinEndXVelocity>-1</MinEndXVelocity>
+    <MinEndYVelocity>0</MinEndYVelocity>
+    <MinEndZVelocity>-0.5</MinEndZVelocity>
+    <MaxEndXVelocity>-1.5</MaxEndXVelocity>
+    <MaxEndYVelocity>0</MaxEndYVelocity>
+    <MaxEndZVelocity>0.5</MaxEndZVelocity>
+    <StartColorA>128</StartColorA>
+    <StartColorR>255</StartColorR>
+    <StartColorG>255</StartColorG>
+    <StartColorB>255</StartColorB>
+    <EndColorA>0</EndColorA>
+    <EndColorR>255</EndColorR>
+    <EndColorG>255</EndColorG>
+    <EndColorB>255</EndColorB>
+  </FlyWeight>
+  <Emitter>
+    <Shape>Point</Shape>
+    <Scale>1</Scale>
+    <SpawnRate>1</SpawnRate>
+    <MinParticles>1000</MinParticles>
+    <MaxParticles>1750</MaxParticles>
+    <Looping>True</Looping>
+    <ImagePath>CloudParticleImage2.dds</ImagePath>
+  </Emitter>
+</ParticleEffect>
