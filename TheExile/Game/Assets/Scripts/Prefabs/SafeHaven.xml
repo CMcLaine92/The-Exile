@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Prefab>
+  <Meshes>
+    <Mesh name ="SafeHaveWall" diffuse="../Game/Assets/Art/2D/Textures/GreenWall_Diffuse.dds" normalMap="../Game/Assets/Art/2D/Normal Maps/Rocky.dds" transX ="0.0" transY ="0.0" transZ ="0.0" rotX ="0.0" rotY ="0.0" rotZ ="0.0"/>
+    <Mesh name ="SafeHavenFloor" diffuse="../Game/Assets/Art/2D/Textures/Ground_Grass.dds" normalMap="" transX ="0.0" transY ="0.0" transZ ="0.0" rotX ="0.0" rotY ="0.0" rotZ ="0.0"/>
+  </Meshes>
+  <Objects>
+    <Object type ="6" transX ="-900.0" transY ="0.0" transZ ="-3800.0" vertical ="1" />
+    <Object type ="6" transX ="900.0" transY ="0.0" transZ ="3800.0" vertical ="1" />
+    <Object type ="6" transX ="3800.0" transY ="0.0" transZ ="-900.0" vertical ="0" />
+    <Object type ="6" transX ="-3800.0" transY ="0.0" transZ ="900.0" vertical ="0" />
+
+    <Object type ="10" transX ="-500.0" transY ="0.0" transZ ="1250.0" ID ="0" />
+    <Object type ="10" transX ="-1500.0" transY ="0.0" transZ ="2750.0" ID ="0" />
+    <Object type ="10" transX ="-2500.0" transY ="0.0" transZ ="800.0" ID ="0" />
+    <Object type ="10" transX ="750.0" transY ="0.0" transZ ="2700.0" ID ="0" />
+    <Object type ="10" transX ="1300.0" transY ="0.0" transZ ="1000.0" ID ="0" />
+    <Object type ="10" transX ="2200.0" transY ="0.0" transZ ="2000.0" ID ="0" />
+    <Object type ="10" transX ="1000.0" transY ="0.0" transZ ="-1750.0" ID ="0" />
+    <Object type ="10" transX ="1900.0" transY ="0.0" transZ ="-2200.0" ID ="0" />
+    <Object type ="10" transX ="2500.0" transY ="0.0" transZ ="-1000.0" ID ="0" />
+    <Object type ="10" transX ="-2200.0" transY ="0.0" transZ ="-1100.0" ID ="0" />
+    <Object type ="10" transX ="-1000.0" transY ="0.0" transZ ="-2750.0" ID ="0" />
+  </Objects>
+</Prefab>

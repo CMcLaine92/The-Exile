@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Prefab>
+  <Meshes>
+    <Mesh name ="FloorPiece" diffuse="../Game/Assets/Art/2D/Textures/Ground_Grass.dds" normalMap="" transX ="0.0" transY ="0.0" transZ ="0.0" rotX ="0.0" rotY ="0.0" rotZ ="0.0"/>
+  </Meshes>
+  <Objects>
+    <Object type="5" transX ="0.0" transY ="0.0" transZ ="0.0" dir="2"/>
+  </Objects>
+</Prefab>

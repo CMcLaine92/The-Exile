@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Prefab>
+  <Meshes>
+    <Mesh name ="MinotaurPen" diffuse="../Game/Assets/Art/2D/Textures/Maze_Wall.dds" normalMap="../Game/Assets/Art/2D/Normal Maps/Rocky.dds" transX ="0.0" transY ="0.0" transZ ="0.0"  rot ="0.0"/>
+    <Mesh name ="MinotaurPenWallH" diffuse="../Game/Assets/Art/2D/Textures/Maze_Wall.dds" normalMap="../Game/Assets/Art/2D/Normal Maps/Rocky.dds" transX ="-500.0" transY ="0.0" transZ ="0.0"/>
+    <Mesh name ="MinotaurPenWallV" diffuse="../Game/Assets/Art/2D/Textures/Maze_Wall.dds" normalMap="../Game/Assets/Art/2D/Normal Maps/Rocky.dds" transX ="0.0" transY ="0.0" transZ ="500.0"/>
+    <Mesh name ="MinotaurPenWallV" diffuse="../Game/Assets/Art/2D/Textures/Maze_Wall.dds" normalMap="../Game/Assets/Art/2D/Normal Maps/Rocky.dds" transX ="0.0" transY ="0.0" transZ ="-500.0"/>
+    <Mesh name ="GateSideRH" diffuse="../Game/Assets/Art/2D/Textures/GateSide.dds" normalMap="" transX ="500.0" transY ="0.0" transZ ="-150.0"/>
+    <Mesh name ="GateSideLH" diffuse="../Game/Assets/Art/2D/Textures/GateSide.dds" normalMap="" transX ="500.0" transY ="0.0" transZ ="150.0"/>
+    <Mesh name ="FloorPiece" diffuse="../Game/Assets/Art/2D/Textures/Maze_Ground.dds" normalMap="../Game/Assets/Art/2D/Normal Maps/Rocky.dds" transX ="0.0" transY ="0.0" transZ ="0.0"/>
+  </Meshes>
+  <Objects>
+    <Object type ="9" transX ="-250.0" transY ="0.0" transZ ="0.0" dir ="3" />
+  </Objects>
+</Prefab>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Prefab>
+  <Meshes>
+    <Mesh name ="BigPitV" diffuse="../Game/Assets/Art/2D/Textures/Maze_Ground.dds" normalMap="../Game/Assets/Art/2D/Normal Maps/Rocky.dds"/>
+  </Meshes>
+  <Objects>
+    <Object type ="0"/>
+  </Objects>
+  
+</Prefab>

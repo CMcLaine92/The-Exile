@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Prefab>
+  <Meshes>
+    <Mesh name = "Trap3x3_Floor" diffuse = "../Game/Assets/Art/2D/Textures/Maze_Ground.dds" normalMap = "../Game/Assets/Art/2D/Normal Maps/Rocky.dds" transX ="0.0" transY ="0.0" transZ ="0.0" rotX ="0.0" rotY ="0.0" rotZ ="0.0"/>
+  </Meshes>
+  <Traps>
+    <Trap type = "0"  transX = "-325.0"  transY = "0.0"  transZ = "250.0"/>
+    <Trap type = "0"  transX = "-325.0"  transY = "0.0"  transZ = "-250.0"/>
+    <Trap type = "0"  transX = "325.0"   transY = "0.0"  transZ = "-250.0"/>
+    <Trap type = "0"  transX = "325.0"   transY = "0.0"  transZ = "250.0"/>
+
+    <Trap type = "1"  transX = "-250.0"  transY = "0.0"  transZ = "650.0" 	startTime="0.0" offset="4.0"/>
+    <Trap type = "1"  transX = "-250.0"  transY = "0.0"  transZ = "-650.0"	startTime="0.0" offset="4.0"/>
+    <Trap type = "1"  transX = "-250.0"  transY = "0.0"  transZ = "975.0" 	startTime="2.0" offset="4.0"/>
+    <Trap type = "1"  transX = "-250.0"  transY = "0.0"  transZ = "-975.0"	startTime="2.0" offset="4.0"/>
+    <Trap type = "1"  transX = "250.0"   transY = "0.0"  transZ = "650.0" 	startTime="0.0" offset="4.0"/>
+    <Trap type = "1"  transX = "250.0"   transY = "0.0"  transZ = "-650.0"	startTime="0.0" offset="4.0"/>
+    <Trap type = "1"  transX = "250.0"   transY = "0.0"  transZ = "975.0" 	startTime="2.0" offset="4.0"/>
+    <Trap type = "1"  transX = "250.0"   transY = "0.0"  transZ = "-975.0"	startTime="2.0" offset="4.0"/>
+
+    <Trap type = "5"  transX = "0.0"  transY = "0.0"  transZ = "1000.0"	rotSpeed = "15.0" wayPointX = "0.0" wayPointY = "0.0" wayPointZ = "-1000.0"/>
+  </Traps>
+</Prefab>

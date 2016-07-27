@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Prefab>
+  <Meshes>
+    <Mesh name = "ExitWallsLeft"	diffuse = "../Game/Assets/Art/2D/Textures/Maze_Wall.dds"	normalMap = "../Game/Assets/Art/2D/Normal Maps/Rocky.dds"	transX = "0.0"  transY = "0.0"  transZ = "0.0"	rotX = "0.0"  rotY = "0.0"  rotZ = "0.0"/>
+    <Mesh name = "ExitFloorH"		diffuse = "../Game/Assets/Art/2D/Textures/Maze_Ground.dds"	normalMap = "../Game/Assets/Art/2D/Normal Maps/Rocky.dds"	transX = "0.0"  transY = "0.0"  transZ = "0.0"	rotX = "0.0"  rotY = "0.0"  rotZ = "0.0"/>
+  </Meshes>
+  <Torches>	    		  			 	   			  				   		 		 	   		   
+    <Torch transX = "-2500.0"  transY = "150.0"  transZ = "-900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "-1500.0"  transY = "150.0"  transZ = "-900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "-500.0"   transY = "150.0"  transZ = "-900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "500.0"    transY = "150.0"  transZ = "-900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "1500.0"   transY = "150.0"  transZ = "-900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "2500.0"   transY = "150.0"  transZ = "-900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "3500.0"   transY = "150.0"  transZ = "-900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+
+    <Torch transX = "-2500.0"  transY = "150.0"  transZ = "900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "-1500.0"  transY = "150.0"  transZ = "900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "-500.0"   transY = "150.0"  transZ = "900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "500.0"    transY = "150.0"  transZ = "900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "1500.0"   transY = "150.0"  transZ = "900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "2500.0"   transY = "150.0"  transZ = "900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+    <Torch transX = "3500.0"   transY = "150.0"  transZ = "900.0"	rotX = "0.0"  rotY = "1.0"  rotZ = "0.0"/>
+  </Torches>
+  <Objects>
+    <Object type = "7"	transX = "-4200.0"  transY = "0.0"  transZ = "0.0"	vertical = "0"/>
+  </Objects>
+</Prefab>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Prefab>
+  <Meshes>
+    <Mesh name = "Trap5x3_HPitFloor1" diffuse = "../Game/Assets/Art/2D/Textures/Maze_Ground.dds" normalMap="../Game/Assets/Art/2D/Normal Maps/Rocky.dds" transX ="0.0" transY ="0.0" transZ ="0.0" rotX ="0.0" rotY ="0.0" rotZ ="0.0"/>
+  </Meshes>
+  <Traps>
+    <Trap type = "1"  transX = "-2275.0" transY = "0.0"   transZ = "-325.0"   startTime = "2.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "-2275.0" transY = "0.0"   transZ = "0.0"      startTime = "1.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "-2275.0" transY = "0.0"   transZ = "325.0"    startTime = "2.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "2275.0" transY = "0.0"    transZ = "325.0"    startTime = "2.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "2275.0"  transY = "0.0"   transZ = "0.0"      startTime = "1.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "2275.0"  transY = "0.0"   transZ = "-325.0"   startTime = "2.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "-1950.0" transY = "0.0"   transZ = "-250.0"   startTime = "3.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "-1950.0" transY = "0.0"   transZ = "250.0"    startTime = "3.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "1950.0"  transY = "0.0"   transZ = "-250.0"   startTime = "3.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "1950.0"  transY = "0.0"   transZ = "250.0"    startTime = "3.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "-1625.0" transY = "0.0"   transZ = "-250.0"   startTime = "4.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "-1625.0" transY = "0.0"   transZ = "250.0"    startTime = "4.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "1625.0"  transY = "0.0"   transZ = "-250.0"   startTime = "4.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "1625.0"  transY = "0.0"   transZ = "250.0"    startTime = "4.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "-1300.0" transY = "0.0"   transZ = "-250.0"   startTime = "5.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "-1300.0" transY = "0.0"   transZ = "250.0"    startTime = "5.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "1300.0"  transY = "0.0"   transZ = "-250.0"   startTime = "5.0"  offset = "5.0"/>
+    <Trap type = "1"  transX = "1300.0"  transY = "0.0"   transZ = "250.0"    startTime = "5.0"  offset = "5.0"/>
+
+    <Trap type = "4"  transX = "-650.0"  transY = "125.0" transZ = "-500.0"   dirX = "0.0"  dirY = "0.0"  dirZ = "1.0"/>
+    <Trap type = "4"  transX = "-650.0"  transY = "125.0" transZ = "500.0"    dirX = "0.0"  dirY = "0.0"  dirZ = "-1.0"/>
+    <Trap type = "4"  transX = "650.0"   transY = "125.0" transZ = "-500.0"   dirX = "0.0"  dirY = "0.0"  dirZ = "1.0"/>
+    <Trap type = "4"  transX = "650.0"   transY = "125.0" transZ = "500.0"    dirX = "0.0"  dirY = "0.0"  dirZ = "-1.0"/>
+    <Trap type = "4"  transX = "-975.0"  transY = "125.0" transZ = "-500.0"   dirX = "0.0"  dirY = "0.0"  dirZ = "1.0"/>
+    <Trap type = "4"  transX = "-975.0"  transY = "125.0" transZ = "500.0"    dirX = "0.0"  dirY = "0.0"  dirZ = "-1.0"/>
+    <Trap type = "4"  transX = "975.0"   transY = "125.0" transZ = "-500.0"   dirX = "0.0"  dirY = "0.0"  dirZ = "1.0"/>
+    <Trap type = "4"  transX = "975.0"   transY = "125.0" transZ = "500.0"    dirX = "0.0"  dirY = "0.0"  dirZ = "-1.0"/>
+
+   
+  </Traps>
+</Prefab>
+
+
+
