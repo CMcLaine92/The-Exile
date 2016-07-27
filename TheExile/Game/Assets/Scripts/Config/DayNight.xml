@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DayNight>
+  <Time>
+    <DayLength>3.0</DayLength>
+    <NightLength>3.0</NightLength>
+  </Time>
+</DayNight>
