@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MinotaurList>
+    <Minotaur spawnPoint ="0" wpIndex1 ="50" wpIndex2 ="52" wpIndex3 ="47"/>
+    <Minotaur spawnPoint ="1" wpIndex1 ="99" wpIndex2 ="87" wpIndex3 ="107"/>
+    <Minotaur spawnPoint ="2" wpIndex1 ="110" wpIndex2 ="107" wpIndex3 ="113"/>
+    <Minotaur spawnPoint ="3" wpIndex1 ="126" wpIndex2 ="9" wpIndex3 ="10"/>
+    <Minotaur spawnPoint ="4" wpIndex1 ="135" wpIndex2 ="122" wpIndex3 ="118"/>
+    <Minotaur spawnPoint ="5" wpIndex1 ="12" wpIndex2 ="35" wpIndex3 ="32"/>
+    <Minotaur spawnPoint ="6" wpIndex1 ="44" wpIndex2 ="17" wpIndex3 ="24"/>
+    <Minotaur spawnPoint ="7" wpIndex1 ="0" wpIndex2 ="16" wpIndex3 ="6"/>
+    <Minotaur spawnPoint ="8" wpIndex1 ="73" wpIndex2 ="60" wpIndex3 ="64"/>
+    <Minotaur spawnPoint ="9" wpIndex1 ="146" wpIndex2 ="142" wpIndex3 ="139"/>
+</MinotaurList>
